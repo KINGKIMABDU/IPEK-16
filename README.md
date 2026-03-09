@@ -30,20 +30,6 @@ Zero npm. Zero frameworks. Just one `.html` file.
 
 ---
 
-## 🚀 Getting Started
-
-No setup needed. Just open the file.
-
-```bash
-git clone https://github.com/YOUR_USERNAME/ipek-birthday.git
-cd ipek-birthday
-# open ipek-birthday.html in any browser
-```
-
-Or simply **drag & drop** `ipek-birthday.html` into your browser.
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -93,7 +79,7 @@ Tested and optimized for:
 
 ## 🧑‍💻 Author
 
-Made with ♡ by **Abdullah** — as a birthday gift for his best friend İpek on her 16th birthday.
+Made with passion by **Abdullah** — as a birthday gift for his best friend İpek on her 16th birthday.
 
 ---
 
